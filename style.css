@@ -49,3 +49,21 @@ button {
 button:hover {
     background-color: rgb(146, 144, 144);
 }
+
+/* Cores de Situações Para o JavaScript */
+
+.aprovado {
+    color: #2f855a;
+}
+
+.recuperacao {
+    color: #b7791f;
+}
+
+.reprovado {
+    color:#c53030;
+}
+
+.erro {
+    color: #c53030;
+}
